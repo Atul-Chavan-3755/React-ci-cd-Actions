@@ -16,6 +16,6 @@ jobs:
             - name: print the version
               run: node -v
             - name: install dependancies
-              run: npm clean install
+              run: npm clean install 
 
         
